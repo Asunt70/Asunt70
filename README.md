@@ -1,12 +1,12 @@
 ### Hi/Hola/Bonjour 👋
  
-Hi, I'm currently a bilingual (currently learning french) highschool student about to graduate :). I love languages and life, but sometimes i develop some projects.
+Hi, Sebastian's talking. I'm currently a bilingual (currently learning french) highschool student about to graduate :). I love languages and life, but sometimes i develop some projects.
 
 ##### Contact
 ---
-You can contact me on my discord: <mark>asunt</mark>
-Or my email: <mark>asudeutschland@gmail.com</mark>
-I prefer discord for informal or formal stuff -.-
+- Discord: **asunt_**
+- Email: **asudeutschland@gmail.com**
+I prefer discord for informal/formal stuff -.-
 
 #### Programming languages that I know
 ---
