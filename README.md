@@ -17,7 +17,7 @@ I prefer discord for informal/formal stuff -.-
 (Know basic stuff and i dont really like web development or related stuff.)
 
 ---
-- 🔭 I’m currently working on master python
-- 🌱 I’m currently learning data science, but im open to learn another IT stuff.
+- 🔭 I’m currently working on an universtiy website.
+- 🌱 I’m currently learning react.
 - 🤔 I’m looking for help with anything! something that'll be useful for our world just contact me
 
