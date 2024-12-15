@@ -15,7 +15,7 @@ Let's build ur page! using React, Next.js
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
-- 🔭 I’m currently working on an universtiy website.
+- 🔭 I’m currently making big projects to help the world.
 - 🌱 I’m currently learning react.
 - 🤔 I’m looking for help with anything! something that'll be useful for our world just contact me
 
