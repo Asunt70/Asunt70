@@ -16,6 +16,5 @@ Let's build ur page! using React, Next.js
 
 ---
 - 🔭 I’m currently making big projects to help the world.
-- 🌱 I’m currently learning react.
 - 🤔 I’m looking for help with anything! something that'll be useful for our world just contact me
 
