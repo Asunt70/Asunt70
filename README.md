@@ -5,7 +5,7 @@ Hi, Sebastian's talking. I'm currently a bilingual (currently learning french) h
 ##### Contact
 ---
 - Discord: **asunt_**
-- Email: **sebaj348@gmail.com@gmail.com**
+- Email: **sebaj348@gmail.com**
 I prefer discord for informal/formal stuff -.-
 
 ---
