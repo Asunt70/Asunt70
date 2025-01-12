@@ -1,12 +1,11 @@
 ### Hi/Hola/Bonjour 👋
  
-Hi, Sebastian's talking. I'm currently a bilingual (currently learning french) highschool student about to graduate :). I love languages and life, but sometimes i develop some projects.
+Hi, Sebastian's talking. I'm currently a bilingual (currently learning french). I love languages and life, sometimes i develop some projects.
 
 ##### Contact
 ---
 - Discord: **asunt_**
 - Email: **sebaj348@gmail.com**
-I prefer discord for informal/formal stuff -.-
 
 ---
 Let's build ur page! using React, Next.js
