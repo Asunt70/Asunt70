@@ -1,6 +1,6 @@
 ### Hi/Hola/Bonjour 👋
  
-Hi, Sebastian's talking. I'm currently a bilingual (currently learning french). I love languages and life, sometimes i develop some projects.
+Hi, Sebastian's talking. I'm currently a bilingual (currently learning french). I love languages and life.
 
 ##### Contact
 ---
