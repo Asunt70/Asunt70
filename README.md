@@ -1,6 +1,7 @@
 ### Hi/Hola/Bonjour 👋
  
 Hi, Sebastian's talking. I'm currently a bilingual (currently learning french). I love languages and life.
+Currently working in [a cli habit app](https://github.com/Asunt70/habits-py)
 
 ##### Contact
 ---
